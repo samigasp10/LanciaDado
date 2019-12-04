@@ -17,7 +17,7 @@
             </TextBox.OpacityMask>
         </TextBox>
         <TextBox x:Name="txtRisultato" HorizontalAlignment="Left" Height="66" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="130" Margin="349,144,0,0" FontFamily="Showcard Gothic" FontSize="20"/>
-        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="INSERISCI UN NUMERO" VerticalAlignment="Top" Margin="28,51,0,0" Width="159" Height="54" FontFamily="Showcard Gothic" FontSize="20"/>
+        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="INSERISCI UN NUMERO " VerticalAlignment="Top" Margin="28,51,0,0" Width="159" Height="54" FontFamily="Showcard Gothic" FontSize="20"/>
 
     </Grid>
 </Window>
